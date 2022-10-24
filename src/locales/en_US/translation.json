@@ -1,0 +1,10 @@
+{
+    "SUCCESS": "Your request has been processed successfully",
+    "SORRY_SOMETHING_WENT_WRONG": "Sorry something went wrong",
+    "BAD_REQUEST": "Bad request",
+    "FORBIDDEN": "Forbidden",
+    "UNAUTHORIZED": "Unauthorized",
+    "DATA_NOT_FOUND": "Data not found",
+    "USER_NOT_FOUND": "User not found",
+    "USERNAME_OR_PASSWORD_INVALID": "Username or password invalid"
+}

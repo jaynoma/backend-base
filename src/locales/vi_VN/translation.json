@@ -1,0 +1,10 @@
+{
+    "SUCCESS": "Your request has been processed successfully",
+    "SORRY_SOMETHING_WENT_WRONG": "Sorry something went wrong",
+    "BAD_REQUEST": "Bad request",
+    "FORBIDDEN": "Forbidden",
+    "UNAUTHORIZED": "Unauthorized",
+    "DATA_NOT_FOUND": "Dữ liệu không tồn tại",
+    "USER_NOT_FOUND": "Tài khoản không tồn tại",
+    "USERNAME_OR_PASSWORD_INVALID": "Tài khoản hoặc mật khẩu không hợp lệ"
+}
